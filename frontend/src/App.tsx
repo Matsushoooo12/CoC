@@ -8,7 +8,6 @@ const App: React.FC = () => {
   return (
     <ThemeProvider theme={theme}>
       <Header />
-      <div>Hello World!</div>
     </ThemeProvider>
   );
 };
