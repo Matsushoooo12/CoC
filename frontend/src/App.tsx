@@ -1,6 +1,6 @@
-import { ThemeProvider } from "@material-ui/core";
 import React from "react";
-import "./App.css";
+import { ThemeProvider } from "@material-ui/core";
+
 import Header from "./components/templates/Header";
 import theme from "./theme/theme";
 
